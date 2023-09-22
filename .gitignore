@@ -1,0 +1,5 @@
+lib/*
+!.gitkeep
+
+src/libs/build/*
+!src/libs/build/.gitkeep
